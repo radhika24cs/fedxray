@@ -1,0 +1,63 @@
+{
+  "condition": "Pneumonia",
+  "icd_10": "J18.9",
+  "category": "Infectious Pulmonary Disease",
+  "overview": "Pneumonia is an acute infection of one or both lungs that inflames the microscopic air sacs (alveoli). The alveoli may fill with pus and cellular exudative fluid, impairing oxygen exchange.",
+  "radiographic_findings": [
+    "Focal or patchy alveolar airspace consolidation",
+    "Air bronchograms (patent airways surrounded by fluid-filled alveoli)",
+    "Silhouette sign (loss of normal anatomical borders, such as the hemidiaphragm or heart margin)",
+    "Lobar or segmental distribution of opacity"
+  ],
+  "common_symptoms": [
+    "Productive cough with greenish, yellow, or rust-colored phlegm",
+    "Fever, sweating, and shaking chills",
+    "Shortness of breath (dyspnea) during routine activities",
+    "Sharp or stabbing chest pain aggravated by deep breathing or coughing (pleuritic chest pain)",
+    "Fatigue, malaise, loss of appetite",
+    "Confusion or altered mental awareness, particularly in adults aged 65 and older"
+  ],
+  "causes_and_risk_factors": [
+    "Bacterial etiologies: Streptococcus pneumoniae, Haemophilus influenzae, atypical pathogens (Mycoplasma pneumoniae)",
+    "Viral etiologies: Influenza virus, Respiratory Syncytial Virus (RSV), SARS-CoV-2",
+    "Risk factors: Age under 2 or over 65, chronic lung diseases (COPD, asthma), immunocompromise, tobacco smoking, aspiration risks"
+  ],
+  "diagnostic_information": [
+    "Posterior-Anterior (PA) and Lateral Chest Radiography (gold standard initial imaging)",
+    "Pulse oximetry to evaluate oxygen saturation (SpO2)",
+    "Complete Blood Count (CBC) showing leukocytosis with left shift",
+    "Sputum Gram stain and culture; blood cultures in hospitalized patients"
+  ],
+  "treatment_approaches": [
+    "Targeted empirical antimicrobial therapy based on outpatient vs. inpatient stratification (e.g., macrolides, beta-lactams, fluoroquinolones)",
+    "Adequate oral and intravenous hydration to loosen pulmonary secretions",
+    "Supplemental oxygen therapy if SpO2 drops below 92-94%",
+    "Fever management with antipyretics and supportive pulmonary toileting"
+  ],
+  "when_to_seek_care": [
+    "Persistent difficulty breathing or breathing at an abnormally rapid rate",
+    "Persistent high fever above 102°F (38.9°C)",
+    "Cyanosis (bluish tint to lips, nail beds, or skin)",
+    "Acute confusion or severe lethargy in elderly patients"
+  ],
+  "reliable_sources": [
+    {
+      "organization": "World Health Organization (WHO)",
+      "title": "Pneumonia Factsheet & Global Health Guidelines",
+      "year": 2024,
+      "reference_id": "WHO-ALRI-2024"
+    },
+    {
+      "organization": "Centers for Disease Control and Prevention (CDC)",
+      "title": "Pneumonia: Symptoms, Causes, and Clinical Guidelines",
+      "year": 2024,
+      "reference_id": "CDC-PNEUMO-01"
+    },
+    {
+      "organization": "National Institutes of Health (NIH / NHLBI)",
+      "title": "Pneumonia Pathophysiology and Diagnosis",
+      "year": 2023,
+      "reference_id": "NIH-NHLBI-PNEUM"
+    }
+  ]
+}

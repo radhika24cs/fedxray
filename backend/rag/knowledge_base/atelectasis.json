@@ -1,0 +1,58 @@
+{
+  "condition": "Atelectasis",
+  "icd_10": "J98.11",
+  "category": "Pulmonary Volume Loss / Parenchymal Collapse",
+  "overview": "Atelectasis refers to the partial or complete collapse of a lung segment, lobe, or entire lung. It occurs when microscopic alveoli deflate or become fluid-filled, reducing the surface area available for gas exchange.",
+  "radiographic_findings": [
+    "Direct sign: displacement of pulmonary interlobar fissures toward the collapsed region",
+    "Direct sign: increased radiopacity (density) in the affected collapsed lobe or segment",
+    "Indirect sign: ipsilateral elevation of the hemidiaphragm",
+    "Indirect sign: mediastinal and tracheal shift toward the side of collapse",
+    "Platelike or discoid linear subsegmental opacities (Fleischner lines)"
+  ],
+  "common_symptoms": [
+    "Subacute dyspnea or shallow breathing (often asymptomatic if subsegmental)",
+    "Decreased tactile fremitus and localized diminished breath sounds",
+    "Mild cough or clearing of the throat",
+    "Low-grade fever (frequently observed in postoperative surgical recovery settings)"
+  ],
+  "causes_and_risk_factors": [
+    "Obstructive: Mucus plugging, foreign body aspiration, endobronchial tumor",
+    "Compressive: Surrounding space-occupying lesion, pleural effusion, pneumothorax",
+    "Surfactant deficiency: Acute Respiratory Distress Syndrome (ARDS)",
+    "Hypoventilation: Recent general anesthesia, thoracic/abdominal surgical incisions, rib fractures causing splinting"
+  ],
+  "diagnostic_information": [
+    "Standard Chest Radiography (AP or PA view with inspiratory effort assessment)",
+    "High-Resolution Computed Tomography (HRCT) of the chest if obstruction is suspected",
+    "Fiberoptic bronchoscopy to directly visualize and clear endobronchial mucus plugs or tumors",
+    "Continuous pulse oximetry monitoring"
+  ],
+  "treatment_approaches": [
+    "Incentive spirometry and deep breathing exercises every 1-2 hours",
+    "Chest physiotherapy, postural drainage, and early postoperative ambulation",
+    "Positive Expiratory Pressure (PEP) therapy or continuous positive airway pressure (CPAP)",
+    "Bronchoscopic suctioning for refractory mucus impaction",
+    "Adequate analgesia to minimize respiratory splinting"
+  ],
+  "when_to_seek_care": [
+    "Rapid onset of oxygen desaturation (< 90%)",
+    "Severe tachypnea (breathing faster than 25-30 breaths/minute)",
+    "Development of high fever or productive purulent cough indicating secondary pneumonia",
+    "Cyanosis or acute confusion"
+  ],
+  "reliable_sources": [
+    {
+      "organization": "National Institutes of Health (NIH / NHLBI)",
+      "title": "Atelectasis Pathophysiology and Clinical Management",
+      "year": 2023,
+      "reference_id": "NIH-NHLBI-ATELEC"
+    },
+    {
+      "organization": "American College of Chest Physicians (CHEST)",
+      "title": "Perioperative Pulmonary Care and Atelectasis Prevention",
+      "year": 2023,
+      "reference_id": "CHEST-PERIOP-23"
+    }
+  ]
+}

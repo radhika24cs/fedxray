@@ -1,0 +1,66 @@
+{
+  "condition": "Cardiomegaly",
+  "icd_10": "I51.7",
+  "category": "Cardiovascular Pathology",
+  "overview": "Cardiomegaly refers to an enlarged heart silhouette observed on diagnostic thoracic imaging. Rather than a distinct disease entity itself, it is a clinical radiographic sign of underlying myocardial hypertrophy, ventricular dilation, or pericardial fluid accumulation.",
+  "radiographic_findings": [
+    "Cardiothoracic Ratio (CTR) exceeding 0.50 on a standard upright PA projection (cardiac width divided by maximum internal thoracic diameter)",
+    "Left heart border lateral extension and downward rounding indicating left ventricular enlargement",
+    "Double density of the right cardiac margin indicating left atrial enlargement",
+    "Cephalization of pulmonary vessels or Kerley B lines if accompanied by pulmonary venous hypertension"
+  ],
+  "common_symptoms": [
+    "Shortness of breath on exertion (dyspnea) or while lying flat (orthopnea)",
+    "Paroxysmal nocturnal dyspnea (waking up gasping for air)",
+    "Peripheral edema (swelling in the lower legs, ankles, or feet)",
+    "Fatigue, reduced exercise tolerance, and rapid exhaustion",
+    "Heart palpitations, irregular pulse, or chest heaviness"
+  ],
+  "causes_and_risk_factors": [
+    "Long-standing systemic arterial hypertension (high blood pressure)",
+    "Coronary artery disease and prior myocardial infarction",
+    "Valvular heart disease (aortic stenosis, mitral regurgitation)",
+    "Cardiomyopathy (dilated, hypertrophic, or restrictive forms)",
+    "Pericardial effusion (fluid within the pericardial sac)",
+    "Congenital heart defects and chronic severe anemia"
+  ],
+  "diagnostic_information": [
+    "Transthoracic Echocardiography (TTE) - primary gold standard to assess ejection fraction and chamber dimensions",
+    "12-Lead Electrocardiogram (ECG) to assess rhythm and voltage criteria for ventricular hypertrophy",
+    "Biomarkers: Serum B-type natriuretic peptide (BNP) or NT-proBNP",
+    "Cardiac Magnetic Resonance Imaging (CMR) for myocardial tissue characterization"
+  ],
+  "treatment_approaches": [
+    "Aggressive blood pressure control with ACE inhibitors, ARBs, or ARNIs",
+    "Beta-blockers (e.g., carvedilol, metoprolol succinate) to reduce myocardial workload",
+    "Diuretics (e.g., furosemide) for volume overload and edema management",
+    "SGLT2 inhibitors and aldosterone receptor antagonists for heart failure with reduced ejection fraction",
+    "Dietary sodium restriction and monitored fluid intake"
+  ],
+  "when_to_seek_care": [
+    "Acute, crushing substernal chest discomfort or pain radiating to jaw or left arm",
+    "Severe acute shortness of breath occurring at rest",
+    "Syncope (fainting episodes) or profound dizziness",
+    "Sudden significant weight gain (2-3 lbs in 24 hours) with rapidly worsening edema"
+  ],
+  "reliable_sources": [
+    {
+      "organization": "American Heart Association (AHA)",
+      "title": "Heart Failure Guidelines and Cardiac Enlargement",
+      "year": 2024,
+      "reference_id": "AHA-HF-2024"
+    },
+    {
+      "organization": "National Institutes of Health (NIH / NHLBI)",
+      "title": "Enlarged Heart (Cardiomegaly) Assessment and Management",
+      "year": 2023,
+      "reference_id": "NIH-NHLBI-CARDIO"
+    },
+    {
+      "organization": "European Society of Cardiology (ESC)",
+      "title": "Diagnosis and Treatment of Acute and Chronic Heart Failure",
+      "year": 2023,
+      "reference_id": "ESC-HF-GL-23"
+    }
+  ]
+}

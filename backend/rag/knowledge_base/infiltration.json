@@ -1,0 +1,58 @@
+{
+  "condition": "Infiltration",
+  "icd_10": "R91.8",
+  "category": "Pulmonary Parenchymal / Interstitial Abnormality",
+  "overview": "Pulmonary infiltration indicates the abnormal accumulation of cellular, liquid, or fibrotic substances within the lung parenchyma or interstitial spaces that are denser than normal aerated lung tissue.",
+  "radiographic_findings": [
+    "Hazy, ill-defined opacity ('ground-glass' appearance or reticular interstitial markings)",
+    "Diffuse bilateral or perihilar reticulonodular interstitial patterns",
+    "Loss of crisp pulmonary vessel clarity without complete lobar consolidation",
+    "Preservation of underlying vascular margins through the hazy opacity"
+  ],
+  "common_symptoms": [
+    "Gradual onset or chronic exertional shortness of breath",
+    "Persistent dry, irritating non-productive cough",
+    "Constitutional symptoms: low-grade fever, unintentional weight loss, night sweats",
+    "Velcro-like fine end-inspiratory crackles (crepitations) on pulmonary auscultation"
+  ],
+  "causes_and_risk_factors": [
+    "Infectious: Atypical bacterial pneumonia, viral pneumonitis (CMV, influenza, COVID-19), Pneumocystis jirovecii (PJP)",
+    "Non-infectious: Drug-induced pneumonitis (e.g., amiodarone, methotrexate, nitrofurantoin)",
+    "Autoimmune/Connective tissue diseases: Systemic sclerosis, rheumatoid arthritis, lupus",
+    "Occupational & environmental exposures: Asbestosis, silicosis, hypersensitivity pneumonitis",
+    "Cardiogenic: Early interstitial pulmonary edema"
+  ],
+  "diagnostic_information": [
+    "High-Resolution Computed Tomography (HRCT) of the Thorax (primary diagnostic tool for interstitial lung patterns)",
+    "Comprehensive Pulmonary Function Tests (PFTs) with DLCO (Diffusion Capacity for Carbon Monoxide)",
+    "Bronchoalveolar Lavage (BAL) and transbronchial biopsy if etiology remains uncertain",
+    "Serum autoimmune antibody panel (ANA, RF, Anti-CCP, Scl-70)"
+  ],
+  "treatment_approaches": [
+    "Prompt cessation and avoidance of causative inciting environmental antigens or medications",
+    "Antimicrobial therapy for documented opportunistic or atypical infections",
+    "Immunosuppressive regimens (corticosteroids, mycophenolate, cyclophosphamide) for inflammatory/autoimmune alveolitis",
+    "Antifibrotic pharmacotherapy (nintedanib, pirfenidone) in progressive fibrosing phenotypes",
+    "Ambulatory supplemental oxygen therapy as needed"
+  ],
+  "when_to_seek_care": [
+    "Rapid progression of breathlessness over days to weeks",
+    "Oxygen saturation falling below 90% at rest or with minimal exertion",
+    "Hemoptysis or chest pain",
+    "New-onset fever in an immunocompromised host"
+  ],
+  "reliable_sources": [
+    {
+      "organization": "American Thoracic Society (ATS) / European Respiratory Society (ERS)",
+      "title": "Diagnosis of Interstitial Lung Diseases Clinical Practice Guideline",
+      "year": 2024,
+      "reference_id": "ATS-ERS-ILD-24"
+    },
+    {
+      "organization": "National Institutes of Health (NIH / NHLBI)",
+      "title": "Interstitial Lung Disease Clinical Overview",
+      "year": 2023,
+      "reference_id": "NIH-NHLBI-ILD"
+    }
+  ]
+}

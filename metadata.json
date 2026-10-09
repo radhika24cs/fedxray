@@ -1,0 +1,8 @@
+{
+  "name": "Privacy-Preserving Federated Learning for Chest X-ray Disease Detection with RAG",
+  "description": "Federated Learning across 3 simulated hospitals with FedAvg aggregation, chest X-ray disease detection, Grad-CAM attention heatmaps, and RAG medical intelligence retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "dataset_name": "FedChestXray-Clinical-Benchmark",
+  "provenance": "Kaggle (Guangzhou Women and Children's Medical Center) + Clinical Radiology Repositories (NEJM / Lancet)",
+  "image_dimensions": "224x224",
+  "color_channels": "Grayscale (1-channel, 8-bit depth PNG)",
+  "classes": [
+    "Normal",
+    "Pneumonia",
+    "Atelectasis",
+    "Cardiomegaly",
+    "Pleural Effusion",
+    "Infiltration"
+  ],
+  "splits": {
+    "hospital_a": {
+      "institution": "Hospital A - Pulmonology & Acute Respiratory Institute",
+      "total_images": 145,
+      "class_distribution": {
+        "Normal": 30,
+        "Pneumonia": 45,
+        "Atelectasis": 15,
+        "Cardiomegaly": 8,
+        "Pleural Effusion": 12,
+        "Infiltration": 35
+      }
+    },
+    "hospital_b": {
+      "institution": "Hospital B - Cardiovascular & Thoracic Care Center",
+      "total_images": 145,
+      "class_distribution": {
+        "Normal": 30,
+        "Pneumonia": 10,
+        "Atelectasis": 12,
+        "Cardiomegaly": 45,
+        "Pleural Effusion": 40,
+        "Infiltration": 8
+      }
+    },
+    "hospital_c": {
+      "institution": "Hospital C - Metro General Teaching Hospital",
+      "total_images": 160,
+      "class_distribution": {
+        "Normal": 35,
+        "Pneumonia": 25,
+        "Atelectasis": 40,
+        "Cardiomegaly": 15,
+        "Pleural Effusion": 25,
+        "Infiltration": 20
+      }
+    },
+    "validation": {
+      "institution": "Multi-Center Cross-Validation Benchmark",
+      "total_images": 90,
+      "class_distribution": {
+        "Normal": 15,
+        "Pneumonia": 15,
+        "Atelectasis": 15,
+        "Cardiomegaly": 15,
+        "Pleural Effusion": 15,
+        "Infiltration": 15
+      }
+    },
+    "test": {
+      "institution": "Federated Global Held-Out Evaluation Test Set",
+      "total_images": 120,
+      "class_distribution": {
+        "Normal": 20,
+        "Pneumonia": 20,
+        "Atelectasis": 20,
+        "Cardiomegaly": 20,
+        "Pleural Effusion": 20,
+        "Infiltration": 20
+      }
+    }
+  },
+  "total_images": 660
+}

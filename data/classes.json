@@ -1,0 +1,27 @@
+{
+  "classes": [
+    "Normal",
+    "Pneumonia",
+    "Atelectasis",
+    "Cardiomegaly",
+    "Pleural Effusion",
+    "Infiltration"
+  ],
+  "num_classes": 6,
+  "normal_class": "Normal",
+  "pathology_classes": [
+    "Pneumonia",
+    "Atelectasis",
+    "Cardiomegaly",
+    "Pleural Effusion",
+    "Infiltration"
+  ],
+  "class_indices": {
+    "Normal": 0,
+    "Pneumonia": 1,
+    "Atelectasis": 2,
+    "Cardiomegaly": 3,
+    "Pleural Effusion": 4,
+    "Infiltration": 5
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "federated_global": {
+    "loss": 0.0558,
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "confusion_matrix": [
+      [
+        20,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        20,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        20,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        20,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        20,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        20
+      ]
+    ],
+    "per_class": {
+      "Normal": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0
+      },
+      "Pneumonia": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0
+      },
+      "Atelectasis": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0
+      },
+      "Cardiomegaly": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0
+      },
+      "Pleural Effusion": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0
+      },
+      "Infiltration": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0
+      }
+    }
+  },
+  "isolated_hospitals": {
+    "hospital_a": {
+      "name": "Hospital A (Pulmonology & Acute Care)",
+      "test_accuracy": 93.33,
+      "test_f1": 92.95,
+      "test_loss": 0.2265
+    },
+    "hospital_b": {
+      "name": "Hospital B (Cardiovascular Center)",
+      "test_accuracy": 100.0,
+      "test_f1": 100.0,
+      "test_loss": 0.0923
+    },
+    "hospital_c": {
+      "name": "Hospital C (Metro General Teaching)",
+      "test_accuracy": 99.17,
+      "test_f1": 99.17,
+      "test_loss": 0.0762
+    }
+  },
+  "round_history": [
+    {
+      "round": 1,
+      "validation_accuracy": 95.56,
+      "validation_loss": 0.1771,
+      "global_test_accuracy": 95.0,
+      "global_test_f1": 94.94,
+      "clients": [
+        {
+          "hospital_name": "Hospital A",
+          "local_loss": 0.6871,
+          "local_accuracy": 0.7977
+        },
+        {
+          "hospital_name": "Hospital B",
+          "local_loss": 0.7628,
+          "local_accuracy": 0.7782
+        },
+        {
+          "hospital_name": "Hospital C",
+          "local_loss": 0.8019,
+          "local_accuracy": 0.749
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "validation_accuracy": 100.0,
+      "validation_loss": 0.0944,
+      "global_test_accuracy": 99.17,
+      "global_test_f1": 99.17,
+      "clients": [
+        {
+          "hospital_name": "Hospital A",
+          "local_loss": 0.1699,
+          "local_accuracy": 0.9333
+        },
+        {
+          "hospital_name": "Hospital B",
+          "local_loss": 0.1748,
+          "local_accuracy": 0.946
+        },
+        {
+          "hospital_name": "Hospital C",
+          "local_loss": 0.2138,
+          "local_accuracy": 0.9115
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "validation_accuracy": 100.0,
+      "validation_loss": 0.0778,
+      "global_test_accuracy": 99.17,
+      "global_test_f1": 99.17,
+      "clients": [
+        {
+          "hospital_name": "Hospital A",
+          "local_loss": 0.0721,
+          "local_accuracy": 0.9782
+        },
+        {
+          "hospital_name": "Hospital B",
+          "local_loss": 0.081,
+          "local_accuracy": 0.977
+        },
+        {
+          "hospital_name": "Hospital C",
+          "local_loss": 0.0952,
+          "local_accuracy": 0.975
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "validation_accuracy": 100.0,
+      "validation_loss": 0.0641,
+      "global_test_accuracy": 100.0,
+      "global_test_f1": 100.0,
+      "clients": [
+        {
+          "hospital_name": "Hospital A",
+          "local_loss": 0.0436,
+          "local_accuracy": 0.9954
+        },
+        {
+          "hospital_name": "Hospital B",
+          "local_loss": 0.0523,
+          "local_accuracy": 0.9966
+        },
+        {
+          "hospital_name": "Hospital C",
+          "local_loss": 0.0579,
+          "local_accuracy": 0.9948
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "validation_accuracy": 100.0,
+      "validation_loss": 0.0574,
+      "global_test_accuracy": 100.0,
+      "global_test_f1": 100.0,
+      "clients": [
+        {
+          "hospital_name": "Hospital A",
+          "local_loss": 0.0352,
+          "local_accuracy": 0.9989
+        },
+        {
+          "hospital_name": "Hospital B",
+          "local_loss": 0.0405,
+          "local_accuracy": 1.0
+        },
+        {
+          "hospital_name": "Hospital C",
+          "local_loss": 0.0435,
+          "local_accuracy": 1.0
+        }
+      ]
+    }
+  ]
+}

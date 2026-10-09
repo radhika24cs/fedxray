@@ -1,0 +1,61 @@
+{
+  "condition": "Pleural Effusion",
+  "icd_10": "J90",
+  "category": "Pleural Space Pathology",
+  "overview": "Pleural effusion is the abnormal accumulation of excess fluid in the pleural space between the visceral pleura (lining the lung) and parietal pleura (lining the chest wall). Fluid buildup compresses the adjacent lung parenchyma, hindering normal expansion.",
+  "radiographic_findings": [
+    "Blunting of the posterior (on lateral view, requires ~50 mL) and lateral costophrenic angles (requires ~175-200 mL)",
+    "Meniscus sign: upward curved fluid contour along the lateral chest wall",
+    "Opacification of the hemithorax with mediastinal shift away from the effusion in large tension effusions",
+    "Layering of free-flowing fluid along the dependent chest wall on lateral decubitus radiograph"
+  ],
+  "common_symptoms": [
+    "Progressive shortness of breath, aggravated when recumbent",
+    "Pleuritic chest pain (sharp discomfort during deep inspiration)",
+    "Dry, non-productive irritating cough",
+    "Dullness to percussion and decreased breath sounds over the affected lung base",
+    "Fever or systemic constitutional symptoms when associated with infection (empyema/parapneumonic)"
+  ],
+  "causes_and_risk_factors": [
+    "Transudative: Congestive heart failure, liver cirrhosis (hepatic hydrothorax), nephrotic syndrome, hypoalbuminemia",
+    "Exudative: Bacterial pneumonia (parapneumonic effusion), malignancy (lung, breast, lymphoma), pulmonary embolism, tuberculosis, rheumatoid arthritis, pancreatitis"
+  ],
+  "diagnostic_information": [
+    "Diagnostic Thoracentesis with pleural fluid analysis",
+    "Light's Criteria to differentiate transudate from exudate (fluid/serum protein and LDH ratios)",
+    "Point-of-Care Ultrasound (POCUS) of the pleural cavity (high sensitivity for fluid quantification)",
+    "Pleural fluid cytology and microbiological cultures"
+  ],
+  "treatment_approaches": [
+    "Therapeutic thoracentesis for immediate symptomatic dyspnea relief",
+    "Treatment of underlying etiology (diuretics for CHF; antibiotics for parapneumonic effusion; targeted oncology therapy)",
+    "Chest tube thoracostomy (tube drainage) for large complicated effusions or frank pus (empyema)",
+    "Chemical pleurodesis or indwelling pleural catheter (IPC) for recurrent malignant effusions"
+  ],
+  "when_to_seek_care": [
+    "Sudden exacerbation of breathlessness or feeling unable to catch breath",
+    "High fever accompanied by purulent sputum or severe localized chest pain",
+    "Hemoptysis (coughing up blood)",
+    "Signs of respiratory exhaustion or hemodynamic instability"
+  ],
+  "reliable_sources": [
+    {
+      "organization": "British Thoracic Society (BTS)",
+      "title": "Pleural Disease Guideline and Thoracentesis Protocols",
+      "year": 2023,
+      "reference_id": "BTS-PLEURAL-2023"
+    },
+    {
+      "organization": "American Thoracic Society (ATS)",
+      "title": "Management of Malignant and Benign Pleural Effusions",
+      "year": 2024,
+      "reference_id": "ATS-PLEUR-24"
+    },
+    {
+      "organization": "CDC & National Center for Emerging and Zoonotic Infectious Diseases",
+      "title": "Parapneumonic Effusions and Empyema Clinical Protocols",
+      "year": 2023,
+      "reference_id": "CDC-EMPYEMA-2023"
+    }
+  ]
+}

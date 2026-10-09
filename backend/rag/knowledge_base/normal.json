@@ -1,0 +1,49 @@
+{
+  "condition": "Normal",
+  "icd_10": "Z00.00",
+  "category": "Unremarkable Baseline Thoracic Examination",
+  "overview": "A normal chest radiograph indicates that the cardiopulmonary structures, thoracic cage, mediastinum, pleural spaces, and visualized upper abdomen show no acute focal abnormalities or pathologically significant deviations from baseline anatomical architecture.",
+  "radiographic_findings": [
+    "Bilateral lung fields are clear, symmetrically aerated, and devoid of focal consolidations, masses, or reticulonodular infiltrates",
+    "Cardiothoracic ratio (CTR) is within physiological limits (< 0.50 on PA projection)",
+    "Bilateral costophrenic and cardiophrenic sulci are sharp, acute, and clear with no fluid layering",
+    "Trachea is midline; aortic knob, hilar vascular structures, and mediastinal contours are crisp and unremarkable",
+    "Bony thorax (ribs, clavicles, thoracic spine) and soft tissues show no acute fractures or lytic/blastic lesions"
+  ],
+  "common_symptoms": [
+    "No acute respiratory distress or cardiopulmonary symptoms attributable to structural thoracic pathology",
+    "May be performed as a baseline pre-operative screening, routine occupational health clearance, or to rule out acute pathology in patients with mild systemic symptoms"
+  ],
+  "causes_and_risk_factors": [
+    "Standard physiological anatomical baseline",
+    "Note: A normal chest X-ray does not completely exclude early-stage microvascular disease, mild reactive airway disease (asthma), or early pulmonary embolism, which require clinical correlation"
+  ],
+  "diagnostic_information": [
+    "Confirmed by board-certified radiologist assessment across systematic review areas (Apices, Hila, Retrocardiac space, Subdiaphragmatic regions)",
+    "Comparison with previous imaging (if available) to confirm longitudinal structural stability"
+  ],
+  "treatment_approaches": [
+    "No therapeutic medical or surgical pulmonary intervention indicated",
+    "Continue routine preventative health measures (tobacco cessation, cardiovascular fitness, annual wellness checks)",
+    "Follow up if new or changing respiratory symptoms develop"
+  ],
+  "when_to_seek_care": [
+    "Development of unexpected shortness of breath, acute wheezing, or chest pain",
+    "High unexplained fever or persistent cough lasting more than 3 weeks",
+    "Unexplained hemoptysis or unintentional significant weight loss"
+  ],
+  "reliable_sources": [
+    {
+      "organization": "American College of Radiology (ACR)",
+      "title": "ACR Appropriateness Criteria: Routine Chest Radiography",
+      "year": 2024,
+      "reference_id": "ACR-CHEST-2024"
+    },
+    {
+      "organization": "National Institutes of Health (NIH)",
+      "title": "Chest X-ray Clinical Atlas and Landmark Verification",
+      "year": 2023,
+      "reference_id": "NIH-CXR-ATLAS"
+    }
+  ]
+}
